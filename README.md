@@ -23,4 +23,24 @@ int main(int argc, char * argv[]) {
         printf("%s will be at %p\n", argv[1], ptr);
 }
 ```
+Tìm pop rdi ;ret
+ROPgadget --binary ./chall --only "pop rdi"
+
+fgets : dùng p64(win) 
+scanf: dùng str(win).encode
+
+## checksec
+- NX 
+1. enable :(stack không thể thực thi mã.không thể chèn shellcode và ret vào ) sử dụng ROP hoặc ret2libc
+2. disable: stack có thể thực thi có thể đưa shellcode vào 
+- PIE
+1. enable: binary được load ở địa chỉ ngẫu nhiên cần phải leak địa chỉ bằng kĩ thuật khác 
+2. disable: binary có địa chỉ cố định 
+- Canary
+1. No canary: overflow
+2. canary found: cần leak canary
+
+
+
+
 
