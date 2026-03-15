@@ -1,0 +1,1657 @@
+amcache v.20200515
+(amcache) Parse AmCache.hve file
+
+***InventoryApplicationFile***
+c:\program files\windowsapps\microsoft.microsoft3dviewer_6.1908.2042.0_x64__8wekyb3d8bbwe\3dviewer.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: ee05f81b330d2e755d8028ec5da859cf9eae1813
+
+c:\program files\7-zip\7z.exe  LastWrite: 2026-03-09 21:39:42Z
+Hash: 56475b921e5576e1dd93ade2035aacea012b1a6f
+
+c:\program files\7-zip\7zfm.exe  LastWrite: 2026-03-09 21:39:42Z
+Hash: b0c5c30de1774e3c293937fbd7c2dac72d43ba06
+
+c:\program files\7-zip\7zg.exe  LastWrite: 2026-03-09 21:39:42Z
+Hash: 3cb29c4cb2c96421e4195b3d89bd93990450d08f
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\align-layers\align-layers.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: fa71faf969ccb3a18036449370eca5f985e4f2db
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\animation-optimize\animation-optimize.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c93b5782ac5c70051774d14040f00fabcaaed9f8
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\animation-play\animation-play.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b4bdd826a5368865ad76267590306d9155a9ccde
+
+c:\program files\windowsapps\microsoft.desktopappinstaller_1.0.30251.0_x64__8wekyb3d8bbwe\appinstaller.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 828d5cf25052ad0686636867130f5a8ff4b71a83
+
+c:\program files\windowsapps\microsoft.desktopappinstaller_1.0.30251.0_x64__8wekyb3d8bbwe\appinstallerelevatedappserviceclient.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 935407d4d0d898f997d5231daffa3329a1443f56
+
+c:\program files\windowsapps\microsoft.desktopappinstaller_1.0.30251.0_x64__8wekyb3d8bbwe\appinstallerpythonredirector.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 2cf0e935fedc16aa1583ab088ff129efd65ea8e6
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\awk.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 7f592ebdb55d24dba8b6dd62fa54dc9dc721ef03
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\b2sum.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 44d0da23f161805d2951b1bfe334c97863d0e6b8
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\basename.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 7eced904fc647ff4402a1947856b8bbf35ca42e9
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\basenc.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: ac3a4f841b040a0d5d68297348cd19504899afec
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\blinds\blinds.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 38acee56177db1945cdada7aee6a21d04e43f747
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\blocked-file-util.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 05deb91e73a1e401444e2d31717c8d7457a14b8d
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\border-average\border-average.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3f1d3de832ed697a048fc20fc474e7c07ea991af
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\brotli.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e8e89ffe3a88679240854e2928c06665ee43e3a3
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\busy-dialog\busy-dialog.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e9fb0b58c83e9d0cec884d90d572d4e4fd76fa17
+
+c:\users\administrator\appdata\local\ithqsu\2ga2pl\calc.exe  LastWrite: 2026-03-12 03:39:48Z
+Hash: 67198a3ca72c49fb263f4a9749b4b79c50510155
+
+c:\users\administrator\appdata\local\calculator.exe  LastWrite: 2026-03-12 03:12:06Z
+Hash: 099050247e58084963bcc657b1f1699fde6f5df6
+
+c:\program files\windowsapps\microsoft.windowscalculator_10.1906.55.0_x64__8wekyb3d8bbwe\calculator.exe  LastWrite: 2026-03-09 19:36:50Z
+Hash: 099050247e58084963bcc657b1f1699fde6f5df6
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\cat.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: eb887fdbbfca5140dbde7b2fd5330845d34a37f8
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\chattr.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e39b7b8d8d8a17aa0fecc7d401f7fcb11bf1636f
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\checkerboard\checkerboard.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 03ff9c8678cdac51276cbfae5192bf6b92608c9c
+
+c:\program files\google\chrome\application\145.0.7632.160\installer\chrmstp.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: b048fe1d872682b4d91dcd16d3e545e797ecfe3a
+
+c:\program files\google\chrome\application\chrome.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 3e654198c61ec6086968a261ca012247d5e89434
+
+c:\users\jon\downloads\chromesetup.exe  LastWrite: 2026-03-09 19:36:44Z
+Hash: a615e68b956b5efc6be9a731db7af34ed0329af0
+
+c:\users\robb\downloads\chromesetup.exe  LastWrite: 2026-03-09 21:37:28Z
+Hash: dbf3e3f688eafe915793c202c92f62b3d287e2d3
+
+c:\program files\google\chrome\application\chrome_proxy.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 2055c2caec9266121112a6a8f2cab9df0e1a8749
+
+c:\program files\google\chrome\application\145.0.7632.160\chrome_pwa_launcher.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 3555d918d4485a4ede75789a7a9c64eb6f889b57
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\cli-32.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 015535f3274f28cf0b01a3e858de4ecf9fb4ef34
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\python3.14\site-packages\setuptools\cli-64.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8075b6d2cc478ab0436ed3c7ca775c1e3e147f5a
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\cli-64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 32f4a73f1f15e2cc04da20dffd60e5aa40d32466
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\cli-arm64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 463cf7b9a2334eb33d5e89e33a164e74dce6d0e9
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\cli.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 015535f3274f28cf0b01a3e858de4ecf9fb4ef34
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\cml-explorer\cml-explorer.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f9daea99c9ea1ae19948006c709c82522dc36d0c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\cmp.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 465d8ad137903200935b4dcb3e7e2eb65931a5c0
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\bin\code-tunnel.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: 873270128aff1fa2e59beec59eaa14c6d922db84
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\code.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: 5bb6d365da206769ada218ae15b584a6b97d8d86
+
+c:\program files\windowsapps\microsoft.heifimageextension_1.0.22742.0_x64__8wekyb3d8bbwe\codecpacks.heif.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: b0cde12ef49b1ec2a4125bc8c183ac5f447ea030
+
+c:\program files\windowsapps\microsoft.vp9videoextensions_1.0.22681.0_x64__8wekyb3d8bbwe\codecpacks.vp9.exe  LastWrite: 2026-03-09 19:36:46Z
+Hash: 906b67339d15be5f776014f1d5bd7a35eca6e4ec
+
+c:\program files\windowsapps\microsoft.webpimageextension_1.0.22753.0_x64__8wekyb3d8bbwe\codecpacks.webp.exe  LastWrite: 2026-03-09 19:36:49Z
+Hash: 8637d99fa3bc034b37a1870d456445f117f36215
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\colormap-remap\colormap-remap.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 0fb2fd1d866f00703443d5a551e5bb2662bb8f1d
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\comm.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 700c2f7a5e11e08b4edb0d5166bca40167bbc6a4
+
+c:\windows\system32\compattelrunner.exe  LastWrite: 2026-03-09 19:36:21Z
+Hash: 92be78f815897d905538b36fbf015af29616cc49
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\compose\compose.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e23e2078ca147d0de80492c49c3a486829b0641e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\contrast-retinex\contrast-retinex.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4a4f447244da61e32a855381a48597aebad85c86
+
+c:\program files (x86)\microsoft\edgecore\optimized\cookie_exporter.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: fdb3b345a82271356f942f228aa1ec37ed12e485
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\cookie_exporter.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: fdb3b345a82271356f942f228aa1ec37ed12e485
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\cookie_exporter.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: fdb3b345a82271356f942f228aa1ec37ed12e485
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\cookie_exporter.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: fdb3b345a82271356f942f228aa1ec37ed12e485
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\copilotupdate.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 6ba0894e444a9feeb951e003bffd021791caf3bf
+
+c:\program files (x86)\microsoft\edgeupdate\copilotupdate.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 6ba0894e444a9feeb951e003bffd021791caf3bf
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\installer\copilot_setup.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 7f402cc1886c4855d27b68bbc8d69ab0fd27d5a4
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\installer\copilot_setup.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 7f402cc1886c4855d27b68bbc8d69ab0fd27d5a4
+
+c:\program files (x86)\microsoft\edgecore\optimized\installer\copilot_setup.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 7f402cc1886c4855d27b68bbc8d69ab0fd27d5a4
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\installer\copilot_setup.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: 7f402cc1886c4855d27b68bbc8d69ab0fd27d5a4
+
+c:\program files\windowsapps\microsoft.549981c3f5f10_1.1911.21713.0_x64__8wekyb3d8bbwe\cortana.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 980bb0afedb41ba4156012ca1be8f5faf12c1006
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\cp.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: d7e0d4bf958c35e57c20c9ebb40a1a7426406b69
+
+c:\program files\mozilla firefox\crashhelper.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: 109bcc2ee91332c8ca2c11d692de25a64a07cef2
+
+c:\program files\mozilla firefox\crashreporter.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: 2143ab66f98f006046ed094a598519447dbb52b4
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\crop-zealous\crop-zealous.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f2d5bf869d12b38f73b93a32dc61c9d49af93bdd
+
+c:\windows\system32\csrss.exe  LastWrite: 2026-03-09 19:28:09Z
+Hash: 43e2258320589c44ad6e8099b59adb0d9695fc8d
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\curve-bend\curve-bend.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: d30d8595d71e68360011edb25f67cf848a8001c1
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\cut.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 962b83538cdbd594377c99878a82e6f34e16bd7a
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\cygwin-console-helper.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 6fa08a48185d6d7e95df9a85457cac3e3db53dc5
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\dash.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 33f9999c8d8010e5b0d59e241ae041690dfb5826
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\date.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 1cb0ca5ef6e78f39a060ef97b7ab1e2f6ec442ad
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\decompose\decompose.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: dfd234a21567a6bd8a979afd8377acb64b4d298f
+
+c:\program files\mozilla firefox\default-browser-agent.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: af32447d0d82ed48457962829a3033568b4b3f5a
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\depth-merge\depth-merge.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3b64d07117fc37e0577db9dadac94c2ad8321a4c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\desktop-trampoline\desktop-askpass-trampoline.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: fb60f66bad344534d44f54dd91560bf9c4941d34
+
+c:\program files\mozilla firefox\desktop-launcher\desktop-launcher.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: ae1f46086bba0689cf7d6adda05d7e7050eabef9
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\despeckle\despeckle.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8b536e0c24df70fec999dd5228787ce09054aa03
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\destripe\destripe.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4e57a17eb84660fdd4f7df977b2d40aa27716ed5
+
+c:\windows\system32\devicecensus.exe  LastWrite: 2026-03-09 19:35:30Z
+Hash: e5c13895c71f575e845d93c9dbed822569a09076
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\diff.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: f3a8b5787103984ea82c373062baa372d5aae711
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\diff3.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e493b515ecaec329dff66eaae2688c598f7d4072
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\dirname.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 76dab724f6f300c5877acb9d417bb7e565a781ec
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\dot.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4e6a1fd320af746b40f6820c7397bc7906af8a51
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\echo.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 58af54e3e67f995af9405cdf4920a5f320928a41
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\share\git\edit-git-bash.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: cf1ba9d690d0800d0914851945329df61b21bb95
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\elevated_tracing_service.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: af78aeeb1cc4ad754480ab9847dcb7171948e006
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\elevated_tracing_service.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: af78aeeb1cc4ad754480ab9847dcb7171948e006
+
+c:\program files\google\chrome\application\145.0.7632.160\elevated_tracing_service.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: be541ae1dc0c6c1a30aa79e4b82fbd049e5ecc69
+
+c:\program files (x86)\microsoft\edgecore\optimized\elevated_tracing_service.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: af78aeeb1cc4ad754480ab9847dcb7171948e006
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\elevated_tracing_service.exe  LastWrite: 2026-03-11 17:08:53Z
+Hash: af78aeeb1cc4ad754480ab9847dcb7171948e006
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\elevation_service.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: 3ba3bf95ef13509db8c7361d52d0380c59df661c
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\elevation_service.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: 3ba3bf95ef13509db8c7361d52d0380c59df661c
+
+c:\program files (x86)\microsoft\edgecore\optimized\elevation_service.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: 3ba3bf95ef13509db8c7361d52d0380c59df661c
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\elevation_service.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: 3ba3bf95ef13509db8c7361d52d0380c59df661c
+
+c:\program files\google\chrome\application\145.0.7632.160\elevation_service.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: 49a05b7786ec71fba232c9d2e5e1f4c108fa3654
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\env.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 4ca8d9b6378e51ded9737dc80e113e5919b1c392
+
+c:\windows\explorer.exe  LastWrite: 2026-03-09 19:28:16Z
+Hash: f25e92edc0cab5e7446a302863802f3879b27bd9
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\expr.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: acb0602a863b228356d286cdbed542672aa5be0a
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\false.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: f10f8d8c40015a7fc01fc3051713904a6c79d853
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-aa\file-aa.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 95e426cdf1c69d99907ba1c9641ecdb02d44d6f3
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-bmp\file-bmp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: ff7c2d287854f701ca5c783dc11b134c7eb0ba0f
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-cel\file-cel.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 0114a19c2bf246a88e45a914a7628c039afef0fd
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-compressor\file-compressor.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4a4d19bd03491431c647f16bac881c8989cd0eed
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-csource\file-csource.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b5448977eaa9bcb2cf03974d7eb1631b5fc047f7
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-darktable\file-darktable.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 48b1bd3aaf9a57294e267453be82d21afa8e6deb
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-dds\file-dds.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e53bf6ad91968e2376c271f67beff6f007d390cc
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-dicom\file-dicom.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: be41ed36d140b7cff2b7a201bcae41998cd2e37c
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-exr\file-exr.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 49be58ed43e8672f641f502b51dddc5e90a63b74
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-farbfeld\file-farbfeld.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e7e9f790add439928a7e79bc15026751c1145d47
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-faxg3\file-faxg3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: dc204809fcd548735ee42396f2b31eb4a8678c55
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-fits\file-fits.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3d57f685ccd743614e72ac1b919e2b850bd3d461
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-fli\file-fli.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 163ef27165601b5e6f6b2838bec4ce9b98f424b3
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-gbr\file-gbr.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f3627f5fe807ec50a7896e6f214604c25720564e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-gegl\file-gegl.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c7a6a7cb28a1a5493f20436b42bc4457f918ae4b
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-gif-export\file-gif-export.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 54e78ce8e50fb2e1d44094185d8c84b3565e9d7c
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-gif-load\file-gif-load.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8571a0b6dd0ff62b9a99b0ffb70e239bedad919f
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-gih\file-gih.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8ce447dad235760ae62907a016bd9fe7a34f34fc
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-glob\file-glob.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 6b8810ddbc26ba0995e015fd2e557c87eeec3c29
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-header\file-header.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9e770ff66b3116061138b702503c8e9101630da1
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-heif\file-heif.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 2a6a5a65b1b7fd269e69a39779bb4b733c10ee97
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-html-table\file-html-table.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 008f27ffcf6acbe73eebdc7c58a1a3adb9e49433
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-icns\file-icns.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 6d87dc84d926d71c3b0ff1089bd3a67fda373509
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-ico\file-ico.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a5f49f09729030bf29add3964ed7d625486b409b
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-iff\file-iff.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 5b10c06a5507c46c514af1d7e8dc53cbb64a6d72
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-jp2-load\file-jp2-load.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a58e7bbee69d6185701e198e73b3a39db7660b1a
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-jpeg\file-jpeg.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 2bb8941eb891f942af7bba30f2e28b922ecc7ff0
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-jpegxl\file-jpegxl.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 45c02534b18ee2b69502e20180acd4f41f627ccc
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-lnk\file-lnk.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 20f3943611c0440cb41cd6fa7f51eed09862e091
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-mng\file-mng.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 7c70237c34d39f74a6b2f387a19d0b76994e882e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pat\file-pat.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 58aa90f8938a322b6cd464c420cb401393949112
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pcx\file-pcx.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: fb76dece242b9ec783c8b57ed2ee7b01f6fed870
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pdf-export\file-pdf-export.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 41562f248b0874611d4f2fa2ed2516816f9e3b16
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pdf-load\file-pdf-load.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 95a6e5ab1ae7ddd59ac5ae34d91701f2f1261b09
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pix\file-pix.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9b9304d8fc2b2da81ca63f79c431568835a9d102
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-png\file-png.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 0f7136e37a94695198a9d4c231dc3fa03a9fdfa7
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-pnm\file-pnm.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 628d9adf6a926eb9ae5ed478dd0b44fe049a3563
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-ps\file-ps.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: fc336580ed60f9463034500ae99fc4684134e8d4
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-psd\file-psd.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9d0b782c43741e6cf9f53c7b52638724d710fe16
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-psp\file-psp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 6817e2afd30ece7ef8c3c99a1ba947ce6f218a52
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-qoi\file-qoi.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: cf6e1595712df2bec891e6aeb13d125abcc3eb16
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-raw-data\file-raw-data.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 58e5cf0ced750068d8027e78d465ed5db01c4f7a
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-raw-placeholder\file-raw-placeholder.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9ed6ebbb52d1c1e63c258bcc7323f9a422f43e29
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-rawtherapee\file-rawtherapee.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 5cb6e84f8a2615ffbec13eac6e3ddd40c47fe843
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-sgi\file-sgi.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3316af2fde21f94360bd217a12233744db0ea0b1
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-sunras\file-sunras.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 29eaaf1a874684e705dfc18ca3a1e1860bcef24b
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-svg\file-svg.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a18dd9ff56f5e8ee8643099bfdc07320e3c54b4e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-tga\file-tga.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f54baf482e525a9b179829145a259f735573f29a
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-tiff\file-tiff.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 740614f7e87533e9ee3e4702ae7cc89fdb77e657
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-wbmp\file-wbmp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f0547282ae96af92156ed647c7b85a6cbc46bbbc
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-webp\file-webp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f5ded3d25b7677172715782b815b5d8688447de3
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-wmf\file-wmf.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 172006f114a2aac4e93cc40193b575373d738b31
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-xbm\file-xbm.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e5d933713a8b2fe6a9fba5a3b6015b1771e454e9
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-xpm\file-xpm.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b8d1b3fc320a4738d95b2e7709d9a8c9cd44f3ae
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\file-xwd\file-xwd.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 94dba6a162cabd53a74d18d8ecd00f2b5cd803de
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\filecoauth.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: aeccd376907cc7c1483f7360af3e52c4ac5ae335
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\filecoauth.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 48c426b2c1ffe4879a07618a3725d3a0c337e809
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\filecoauth.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 1b96c12f13d14c22be625ade562af005e8c29076
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\filesyncconfig.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: e9ac484bcda90d7ece991682774b4c5e933ee137
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\filesyncconfig.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: 15b4b5afff9abba2de64cbd4f0989f1b2fbc4bf1
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\filesyncconfig.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 6b19b722ead6a083142b349bb419ed5dc15f2f9c
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\filesynchelper.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 852a15247ed1140b8293372d6c8dc03945bd127e
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\filesynchelper.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: a929e6319240c8af295752099c46bf5a7091d452
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\filesynchelper.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: ca4f282fcce87391ff9483204cc5f6a20dbb06a9
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\film\film.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 24163f6f145056a8ef3147ee5c6db12b683359e8
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\find.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 66738ae80969f4af2fba813b66a0f710d0cabc28
+
+c:\users\administrator\desktop\firefox.exe  LastWrite: 2026-03-11 17:08:50Z
+Hash: 745f88b72b0a384828683cf98000f548a092efe9
+
+c:\program files\mozilla firefox\firefox.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: bf5cda70c54493d5af912cbbe8ffbff3a9a50902
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\flame\flame.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 7d0c7aefbb2c2249a3f00da9ea3b8562bdaa8de6
+
+c:\program files\windowsapps\microsoft.getstarted_8.2.22942.0_x64__8wekyb3d8bbwe\fmui\fmui.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: 10976b7845510d772a7f4c24d29d0b158cab2fde
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\fractal-explorer\fractal-explorer.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b552a28949632432d1341f9531433e341ca130d2
+
+c:\program files\windowsapps\microsoft.xboxgameoverlay_1.46.11001.0_x64__8wekyb3d8bbwe\gamebar.exe  LastWrite: 2026-03-09 19:36:56Z
+Hash: e55676a37d5cdce71d9e3ec0724a0d5f315082bf
+
+c:\program files\windowsapps\microsoft.xboxgamingoverlay_2.34.28001.0_x64__8wekyb3d8bbwe\gamebar.exe  LastWrite: 2026-03-09 19:36:56Z
+Hash: 82a30d1513d9b233d247906edc37638e5ad473a8
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gdbus.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 91ed1c2f416b607cc301df17e149d5bbfd6fb353
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gegl.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c4fa26f80ae4e9d77ea41b8192f5a37fa0f8f609
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\gencat.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 366aeeb0cd36d1b08bbfe3cd5f1fa0fbfce4a5d6
+
+c:\program files\libreoffice\program\gengal.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 324a826f438f2e147888fc7e97a5c0bbd2dbf62c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\getfacl.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: dae843896a11c58e6f374f37b31485d9f959be3a
+
+c:\program files\windowsapps\microsoft.gethelp_10.1706.13331.0_x64__8wekyb3d8bbwe\gethelp.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: 164a4f80b89fb2d7fcc39a9abab68b1ed0c1f889
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\getopt.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 944ac39249b906a1bf18a07b44e0fca4b5e4a7a9
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\libexec\getprocaddr32.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 9a29e418ce258bff375f2d2d8da2295bc161408e
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\libexec\getprocaddr64.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 755b27711bc4eb8791aa1fae20fa700319d72320
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\gfig\gfig.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: aec8fab970f771d633dc64242ed05c4af8468e39
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b20dc2e8410698845491ca80882b63fe980f5f4d
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b20dc2e8410698845491ca80882b63fe980f5f4d
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-console-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a8600cb0e8ef2dd4b110b781f6d8ab3279aa11e9
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-console-3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a8600cb0e8ef2dd4b110b781f6d8ab3279aa11e9
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-console.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a8600cb0e8ef2dd4b110b781f6d8ab3279aa11e9
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-debug-tool-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8f8a866fbdee93ca545cdc74b3a709848dfc7c5f
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-debug-tool-3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8f8a866fbdee93ca545cdc74b3a709848dfc7c5f
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-debug-tool.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8f8a866fbdee93ca545cdc74b3a709848dfc7c5f
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-script-fu-interpreter-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a844269c301717dd614202d6ac858e867170cd81
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-test-clipboard-3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4e2acd01b0e52a809bd15ce0990f65400e064df6
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-test-clipboard-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4e2acd01b0e52a809bd15ce0990f65400e064df6
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp-test-clipboard.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4e2acd01b0e52a809bd15ce0990f65400e064df6
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: b20dc2e8410698845491ca80882b63fe980f5f4d
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\gimpressionist\gimpressionist.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f0294dc7c26319939ef2128b06d065c18d687516
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimptool-3.0.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: de21e8ba80992948a1db222da0484fbaefc7cf03
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimptool-3.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: de21e8ba80992948a1db222da0484fbaefc7cf03
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gimptool.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: de21e8ba80992948a1db222da0484fbaefc7cf03
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-askpass.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 56d15c64d38cef21b515d63d4247c6723ed82a61
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-askyesno.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 74c68f65f40a7acc5eb99f6d33bdb5bf596f435b
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\libexec\git-core\git-credential-desktop.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 54048e6af7c93535d8a01e19e96d1beb04bc3d44
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-credential-helper-selector.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 33b4daccb0e93c10120b9043af3ec1d8e2587507
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-credential-manager.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 70b473ec92827556a77896aa0a82c2c2903d721a
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-http-fetch.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 2b935e3c78b9c6a3c48fc34a028dc5912b39aef2
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-http-push.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 9c1ab8bc068db62bed53e7baffa53b169e00c912
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\libexec\git-core\git-lfs.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 6294f1a290f85f727ef64c54319d613bff243e4d
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\cmd\git-receive-pack.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 984c561dc016516f62cfe78c5cc42a75e23fbbd4
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-receive-pack.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 048ef66b2a9e2a5828303dd11dd04de39d289254
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-remote-http.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 048ef66b2a9e2a5828303dd11dd04de39d289254
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-remote-https.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 1787d55b560d31ebae0744a11bf5fa07731549c3
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-sh-i18n--envsubst.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: df4e3f3c5d9ae9987b3fb7aa6646b97c3349ddc8
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git-upload-pack.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 048ef66b2a9e2a5828303dd11dd04de39d289254
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\cmd\git-upload-pack.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 59493aab6d72c8d8046ab6943fd781e364b4bf5c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\share\git\git-wrapper.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 048ef66b2a9e2a5828303dd11dd04de39d289254
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\git.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e23a00aeb37c71560c00ab370a4ad0080fb004bc
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\cmd\git.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 085e93a400c7976d0e2bc8c74b52aef13fac9d52
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\githubdesktop.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: ea3f04d7740a5584f941c756ac2c8b95b5f3a1b6
+
+c:\users\robb\appdata\local\githubdesktop\githubdesktop.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 1c7c2363955acfc4ab245abf1982a070d7f02f92
+
+c:\users\administrator\downloads\neuwhc\kape\gkape.exe  LastWrite: 2026-03-11 17:35:03Z
+Hash: ec2ff86048366282b664d5e47c24a04579f98aba
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\gmondump.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 0a11b774912e47d74674f092ac567c1b0d2daf3e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\extensions\org.gimp.extension.goat-exercises\goat-exercise-c.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 1958098aa82a8f8b0f386c125d33017c66e3957e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\extensions\org.gimp.extension.goat-exercises\goat-exercise-vala.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a46110070e5881ed7641fb48a3ab82391f81a7f3
+
+c:\program files (x86)\google\update\googleupdate.exe  LastWrite: 2026-03-09 19:37:46Z
+Hash: 41a73d89765b6c5f33261409e27827de3c86af14
+
+c:\program files\libreoffice\program\gpgme-w32spawn.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 8147ca9d3339942d2b920b7ffb58ee0daf4bfe06
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\gradient-flare\gradient-flare.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 044b45a97e2e25ab779b77f8285d95a199813553
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\gradient-map\gradient-map.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 412c9d59065d41f836be469f5c4a92953cb7a63c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\grep.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e78da903e2492a0b1fdec5ee503e334ebb95cce0
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\grid\grid.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 758066c9430aa8307b51fe6d8c46cdbe83e6aeba
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gspawn-win64-helper.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 6ca1b5357bb824bf1740e73dad710c37e46ab352
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\gspawn-win64-helper-console.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: a3530246a13bfded94cc57ce48326408ddcedb0f
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\gui-32.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 418b4d0ee1459ae958185c5620fd326107b60dad
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\gui-64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: b9a4181165b5864760055cdf7dc2d360fbf885c0
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\python3.14\site-packages\setuptools\gui-64.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9bb91ce57839721828d000125010a0ebb3453d1e
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\gui-arm64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: aa7e72efcaf8b2dfc2f04b6ff17ed42d7233e397
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\setuptools\gui.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 418b4d0ee1459ae958185c5620fd326107b60dad
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\guillotine\guillotine.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 35fbc93a2e4cc019123956845469435a3397d65f
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\head.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 3e6bd36497b34a3a5b31743cc879b57c957cb125
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\headless-git.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: ad8ba7404594b3de0171d81c9a5913fdbcf4a5d1
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\help\help.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 06a00de5af932bb5292d05e57f472245e1cf82d4
+
+c:\program files\mozilla firefox\uninstall\helper.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: 654ea539646f62a3c9651721f6e8ef7260643baa
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\hot\hot.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 1fd6b96a75e36107d6bf1c324afd96dc24338695
+
+c:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\hxaccounts.exe  LastWrite: 2026-03-09 19:36:53Z
+Hash: 01503f44c6ae7866dea94b04f08aaae77e3b459d
+
+c:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\hxcalendarappimm.exe  LastWrite: 2026-03-09 19:36:53Z
+Hash: 455b86f5977e5079568e1593ec057fd68c99e261
+
+c:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\hxoutlook.exe  LastWrite: 2026-03-09 19:36:53Z
+Hash: def53a43d9549f086ca9aa1bd6bc5bd9ecd48f81
+
+c:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\hxtsr.exe  LastWrite: 2026-03-09 19:36:53Z
+Hash: ed941af1124f394b9384aa128da8f4674e6091d3
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\identity_helper.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: be3fa7560c2a95ded25884904162bf80619636e8
+
+c:\program files (x86)\microsoft\edgecore\optimized\identity_helper.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: be3fa7560c2a95ded25884904162bf80619636e8
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\identity_helper.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: be3fa7560c2a95ded25884904162bf80619636e8
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\identity_helper.exe  LastWrite: 2026-03-11 17:08:54Z
+Hash: be3fa7560c2a95ded25884904162bf80619636e8
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\bho\ie_to_edge_stub.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 7b8bd8ad294467e66acbe8d860501dd527c49cd9
+
+c:\program files (x86)\microsoft\edgecore\optimized\bho\ie_to_edge_stub.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 7b8bd8ad294467e66acbe8d860501dd527c49cd9
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\bho\ie_to_edge_stub.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 7b8bd8ad294467e66acbe8d860501dd527c49cd9
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\bho\ie_to_edge_stub.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 7b8bd8ad294467e66acbe8d860501dd527c49cd9
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\ifs-compose\ifs-compose.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8ee2f083d1118dd28c834d4b4f5403e3e83cbd74
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\imagemap\imagemap.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: f1eb585e4e2a8daf55cd6669888475b0585e9807
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\ce099c1ed2\tools\inno_updater.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: 7f9f3f0a57699c938ae2ac6f5731d0e2b84703b3
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\jigsaw\jigsaw.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c83e0a4261aa22e684e4dcbce83b10b11e893465
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\lighting\lighting.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: e188f74d08f202707b3ffb34a3962ea1334c26ac
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\python3.14\site-packages\lldb\lldb-argdumper.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 5f8120012210a00cd4472c32b5f063390058e061
+
+c:\program files\windowsapps\microsoft.microsoftofficehub_18.1903.1152.0_x64__8wekyb3d8bbwe\localbridge.exe  LastWrite: 2026-03-09 19:36:37Z
+Hash: 59baddbcd3284dc5e732e88e5c3a285269715611
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\ls.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 33be92a18c0089b3b376be92be90273e0c1930d7
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\lsattr.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 2fefee05d159254639d9178c12433d0a909511c5
+
+c:\program files\mozilla firefox\maintenanceservice.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: c10295012491fb023f7da774992c535c47dc77a0
+
+c:\program files\mozilla firefox\maintenanceservice_installer.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: 66e03ff7d2793d5dddf331fbb7d38e3dc2a0339b
+
+c:\program files (x86)\mozilla maintenance service\maintenanceservice.exe  LastWrite: 2026-03-09 19:40:45Z
+Hash: 02eca14aec640042453595b275a8b26c11ae6d48
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\map-object\map-object.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: adbdce98be5b0158c625f7355113e3da6a53c5e8
+
+c:\program files\windowsapps\microsoft.windowsmaps_5.1906.1972.0_x64__8wekyb3d8bbwe\maps.exe  LastWrite: 2026-03-09 19:36:54Z
+Hash: cf174f953f9b84597eef2ebbab6b627c6195bed1
+
+c:\program files\libreoffice\program\mar.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 68345243540afc478f4afd943ce93edcde45ec99
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\metadata-editor\metadata-editor.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 5689ef30f8d3a60f3d8efd2fa2351f28aa49c6ec
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\metadata-viewer\metadata-viewer.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8cedb66d1fb1b497d8bfb97785bd9de7522d9c53
+
+c:\program files\windowsapps\microsoft.microsoftsolitairecollection_4.4.8204.0_x64__8wekyb3d8bbwe\microsoft.microsoftsolitairecollection.exe  LastWrite: 2026-03-09 19:36:37Z
+Hash: 2e6fef6be06e552194c33c537748deba12e3c07c
+
+c:\program files\windowsapps\microsoft.bingweather_4.25.20211.0_x64__8wekyb3d8bbwe\microsoft.msn.weather.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 4497a54c7856970ae46427fb44f094092af6dd12
+
+c:\program files\windowsapps\microsoft.microsoftstickynotes_3.6.73.0_x64__8wekyb3d8bbwe\microsoft.notes.exe  LastWrite: 2026-03-09 19:36:38Z
+Hash: 2546b5453bf70c02b496dcd5db0071a688bc292d
+
+c:\program files\windowsapps\microsoft.windows.photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\microsoft.photos.exe  LastWrite: 2026-03-09 19:36:49Z
+Hash: f0a1c19653ed9e9db91c8ed73d9d8bf77e4afc21
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\microsoft.sharepoint.nativemessagingclient.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 8ae9e0cd18c3a13ec520c4d8c16301ea144f1cc6
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\microsoft.sharepoint.nativemessagingclient.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: f24651e686feb7ab312262c261473f552c22e62b
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\microsoft.sharepoint.nativemessagingclient.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: dfb0486417b6cf18c4811e3287fa22e9dd109264
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\microsoft.sharepoint.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: 3b81820a092a3799948193524ce8d8c161eb34fc
+
+c:\program files\windowsapps\microsoft.wallet_2.4.18324.0_x64__8wekyb3d8bbwe\microsoft.wallet.exe  LastWrite: 2026-03-09 19:36:47Z
+Hash: 8010f7c746a7ba4864785f798f46ec05caae7ece
+
+c:\program files\windowsapps\microsoft.webmediaextensions_1.0.20875.0_x64__8wekyb3d8bbwe\microsoft.webmediaextensions.exe  LastWrite: 2026-03-09 19:36:48Z
+Hash: 42f9905b5d417fb616edb0db2fad70afbf970f93
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgecomregistershellarm64.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 44825d95f0236ecd5ef2b8f922689f50c9c77b41
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdate.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: a3281440828de514b0fc7bebfef3cfd37a418dc6
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdatesetup.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: c360fc1486ba8f1a3bfdfc511a2441317eef6d08
+
+c:\program files (x86)\microsoft\edgeupdate\download\{f3c4fe00-efd5-403b-9569-398a20f1ba4a}\1.3.225.7\microsoftedgeupdatesetup_x86_1.3.225.7.exe  LastWrite: 2026-03-09 19:37:48Z
+Hash: c360fc1486ba8f1a3bfdfc511a2441317eef6d08
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdateondemand.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 176bf81c1bae0c28fd6d71533e6327a49f1e7a4a
+
+c:\program files (x86)\microsoft\edgeupdate\microsoftedgeupdate.exe  LastWrite: 2026-03-09 19:26:09Z
+Hash: a3281440828de514b0fc7bebfef3cfd37a418dc6
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdatecomregistershell64.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 74f17632060a2999ef34b6af450d48ec6a8a2130
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdatebroker.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 2eadb04d0d160226887de799c4d4e2af0593e463
+
+c:\program files (x86)\microsoft\edgeupdate\1.3.225.7\microsoftedgeupdatecore.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: fbc6e8703124b95bb9600e8cc8f1a26f1ba7a065
+
+c:\program files (x86)\microsoft\edgeupdate\download\{f3017226-fe2a-4295-8bdf-00c3a9a7e4c5}\145.0.3800.97\microsoftedge_x64_145.0.3800.97.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 4cc89cf1eb0e41ec537badfa2193b951a2a4443f
+
+c:\program files (x86)\microsoft\edgeupdate\download\{56eb18f8-b008-4cbd-b6d2-8c97fe7e9062}\145.0.3800.97\microsoftedge_x64_145.0.3800.97.exe  LastWrite: 2026-03-09 19:37:47Z
+Hash: 4cc89cf1eb0e41ec537badfa2193b951a2a4443f
+
+c:\program files\libreoffice\program\minidump_upload.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 9a8b78c2ce69d0fbebc8eea9c2d5d6364f4586c6
+
+c:\program files\windowsapps\microsoft.mixedreality.portal_2000.19081.1301.0_x64__8wekyb3d8bbwe\mixedrealityportal.exe  LastWrite: 2026-03-09 19:36:38Z
+Hash: a25cbce88d1665db938faf605cc7b6dccaf14f5e
+
+c:\program files\windowsapps\microsoft.mixedreality.portal_2000.19081.1301.0_x64__8wekyb3d8bbwe\mixedrealityportal.brokered.exe  LastWrite: 2026-03-09 19:36:38Z
+Hash: 53f169651cdfe4475b3a11e752ba3c3737bdb066
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\mkdir.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: f48c42961d0efb788511b6f4031cb02d141d1226
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\mktemp.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 90963b650782404478e1dc7961c415e6f1704c09
+
+c:\windows\system32\mousocoreworker.exe  LastWrite: 2026-03-10 15:25:19Z
+Hash: f704ada972c2a827919fdf1f22b69106788931e5
+
+c:\programdata\microsoft\windows defender\platform\4.18.26010.5-0\mpdefendercoreservice.exe  LastWrite: 2026-03-11 17:08:52Z
+Hash: 74d61cf60286b53ce58cc7933650210e02a66989
+
+c:\program files (x86)\microsoft\edgecore\optimized\mscopilot.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 33dcb3f7ed074a4ec917ee3b7bfd243aef40b0f3
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\mscopilot.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 33dcb3f7ed074a4ec917ee3b7bfd243aef40b0f3
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\mscopilot.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 33dcb3f7ed074a4ec917ee3b7bfd243aef40b0f3
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\mscopilot.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 33dcb3f7ed074a4ec917ee3b7bfd243aef40b0f3
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\msedge.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: eb61604824f359091d6ba3327c9f927495634ec6
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\msedge.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: eb61604824f359091d6ba3327c9f927495634ec6
+
+c:\program files (x86)\microsoft\edgecore\optimized\msedge.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: eb61604824f359091d6ba3327c9f927495634ec6
+
+c:\program files (x86)\microsoft\edge\application\msedge.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: eb61604824f359091d6ba3327c9f927495634ec6
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\msedge.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: eb61604824f359091d6ba3327c9f927495634ec6
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\msedgewebview2.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 00acaef180091b1d38e72e1724ddbb2a60a92cd4
+
+c:\program files (x86)\microsoft\edgecore\optimized\msedgewebview2.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 00acaef180091b1d38e72e1724ddbb2a60a92cd4
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\msedgewebview2.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 00acaef180091b1d38e72e1724ddbb2a60a92cd4
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\msedgewebview2.exe  LastWrite: 2026-03-11 17:08:55Z
+Hash: 00acaef180091b1d38e72e1724ddbb2a60a92cd4
+
+c:\program files (x86)\microsoft\edge\application\msedge_proxy.exe  LastWrite: 2026-03-11 17:08:56Z
+Hash: 4071734e99ac5f75de364107f3b5c7a884d5df64
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\msedge_proxy.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 4071734e99ac5f75de364107f3b5c7a884d5df64
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\msedge_proxy.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 4071734e99ac5f75de364107f3b5c7a884d5df64
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\msedge_proxy.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 4071734e99ac5f75de364107f3b5c7a884d5df64
+
+c:\program files (x86)\microsoft\edgecore\optimized\msedge_proxy.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 4071734e99ac5f75de364107f3b5c7a884d5df64
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\msedge_pwa_launcher.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 78717e3f3034ea011aecd821f1c098ff3d4c17b2
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\msedge_pwa_launcher.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 78717e3f3034ea011aecd821f1c098ff3d4c17b2
+
+c:\program files (x86)\microsoft\edgecore\optimized\msedge_pwa_launcher.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 78717e3f3034ea011aecd821f1c098ff3d4c17b2
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\msedge_pwa_launcher.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 78717e3f3034ea011aecd821f1c098ff3d4c17b2
+
+c:\programdata\microsoft\windows defender\platform\4.18.26010.5-0\msmpeng.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 68190ecf36a2b418b3160362886673fefbdcacd4
+
+c:\program files\windows defender\msmpeng.exe  LastWrite: 2026-03-09 19:37:51Z
+Hash: 85536ad6afee43b728ed12ee8cffca41f74f6446
+
+c:\program files\windowsapps\microsoft.zunemusic_10.19071.19011.0_x64__8wekyb3d8bbwe\music.ui.exe  LastWrite: 2026-03-09 19:36:58Z
+Hash: 6c76e059a0588c42477612a350c3f21d33284292
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\mv.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 6eb533ade8bacb12ca7b7f953347bccdf8c019fe
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\newgrp.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: b263b9be5d5d46453bc44b6552db028e95a241f9
+
+c:\programdata\microsoft\windows defender\platform\4.18.26010.5-0\nissrv.exe  LastWrite: 2026-03-11 17:08:52Z
+Hash: 1c9ffd0bc506c8677a34a82a69c8005599e39b60
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\nl-filter\nl-filter.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: aaa15524f5decb93b6369213fc3f5c5ff26c759c
+
+c:\program files\mozilla firefox\nmhproxy.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: c46583497babb380e78d76c86cf49fb2a37223ec
+
+c:\users\administrator\appdata\local\notepad.exe  LastWrite: 2026-03-12 03:34:36Z
+Hash: 980fc4d979826b3a81f0267e6b1d17c310675679
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\notification_click_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\notification_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\program files (x86)\microsoft\edgecore\optimized\notification_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\notification_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\program files\google\chrome\application\145.0.7632.160\notification_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 54d6370aaa658d0c0d23ba273a47642719782e27
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\notification_helper.exe  LastWrite: 2026-03-11 17:08:59Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\program files\libreoffice\program\odbcconfig.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: c4db12c8390d50e2080c243fabe3d74fe0a844fd
+
+c:\users\jon\appdata\local\microsoft\onedrive\onedrive.exe  LastWrite: 2026-03-09 19:37:49Z
+Hash: 2d7da1c3bfa4755ba0efec5317260d239cbb51c3
+
+c:\users\administrator\appdata\local\microsoft\onedrive\onedrive.exe  LastWrite: 2026-03-11 17:08:52Z
+Hash: 784198ac184008e62175ff09bba4e3288b404af2
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedrive.sync.service.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: d115ab6478d45075d0f1b85d06f9971812790d9a
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedrive.sync.service.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 9c0220a7b49f140b200fdd0f0121599ffd1000ef
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedriveactionhelper.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: f69401ebad5168e67631b2fbe73967dce8371c98
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedriveactionhelper.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 9fd030b74637bc26cccd287e246c0dd7bf82950b
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedrivefilelauncher.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 3196919b92f108eb1ec3f5da36fe9d7e5bfb9bbf
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\onedrivefilelauncher.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: 082382312727e8d3b14603cc51af1615ec725c0e
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedrivefilelauncher.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: acde466a3fab22c25485ad7b9897777f3e0d140c
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedrivelauncher.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 0e52f7dfa420cddba25d7acd68f0b8c6a07cd1c7
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedrivelauncher.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 24b2e5d778e034e38b569fc01e3f3d92bb9cb593
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedrivepatcher.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 2b1d76309a0fdb701cfb3a60e3399789eda68245
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedrivepatcher.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 26b31a0692fe34946d823f88c49554b64dac9738
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedrivesetup.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: 363b6554cbe150b16b7c77a98f045be3664c2488
+
+c:\users\jon\appdata\local\microsoft\onedrive\update\onedrivesetup.exe  LastWrite: 2026-03-12 01:28:52Z
+Hash: ae07d6ca04576245c2bd8e8db91c269116190bac
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedrivesetup.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: ae07d6ca04576245c2bd8e8db91c269116190bac
+
+c:\users\robb\appdata\local\microsoft\onedrive\update\onedrivesetup.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: 2ff161a1185b5716ade6b895127d561299e7cafe
+
+c:\users\administrator\appdata\local\microsoft\onedrive\update\onedrivesetup.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: ae07d6ca04576245c2bd8e8db91c269116190bac
+
+c:\windows\syswow64\onedrivesetup.exe  LastWrite: 2026-03-09 19:28:47Z
+Hash: ce8669d8826c8795115d58c62e726ae53943dce9
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\onedrivesetup.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: 2ff161a1185b5716ade6b895127d561299e7cafe
+
+c:\users\administrator\appdata\local\microsoft\onedrive\onedrivestandaloneupdater.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: 59889c56260e35ae237ed4a8951c2d90ef224855
+
+c:\users\jon\appdata\local\microsoft\onedrive\onedrivestandaloneupdater.exe  LastWrite: 2026-03-09 19:37:49Z
+Hash: 57b7fc9bf59cf09a9c19ad0ce0a159746554d682
+
+c:\users\jon\appdata\local\microsoft\onedrive\21.220.1024.0005\onedriveupdaterservice.exe  LastWrite: 2026-03-09 19:37:30Z
+Hash: 6bf162ba772a859e1907672f51f931e5c74a7541
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.026.0209.0004\onedriveupdaterservice.exe  LastWrite: 2026-03-11 17:08:44Z
+Hash: 1658861398de973a9bb45584402081a5fac74596
+
+c:\users\administrator\appdata\local\microsoft\onedrive\26.032.0217.0003\onedriveupdaterservice.exe  LastWrite: 2026-03-12 02:02:37Z
+Hash: df9c0ec3277976bcb2ff1bd19dcc14fd14ca6ea0
+
+c:\program files\windowsapps\microsoft.office.onenote_16001.12026.20112.0_x64__8wekyb3d8bbwe\onenoteim.exe  LastWrite: 2026-03-09 19:36:42Z
+Hash: 05e032e47e17dfb5dc51e275a16815985160c801
+
+c:\program files\windowsapps\microsoft.office.onenote_16001.12026.20112.0_x64__8wekyb3d8bbwe\onenoteshare.exe  LastWrite: 2026-03-09 19:36:42Z
+Hash: 2e506b59e6ddb94ef9277631f9ab5b9adebd0bd7
+
+c:\program files\libreoffice\program\opencltest.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: e71b8bd03c7f138735c93a023b1eb05736558f3a
+
+c:\program files\google\chrome\application\145.0.7632.160\os_update_handler.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: 162464451071bd02bdb9a9459ebae88a797f7a80
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\pagecurl\pagecurl.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c0217b6550e66bec25e4b983d86366735b209f8b
+
+c:\program files\windowsapps\microsoft.mspaint_6.1907.29027.0_x64__8wekyb3d8bbwe\paintstudio.view.exe  LastWrite: 2026-03-09 19:36:40Z
+Hash: 4473c8ea92e135e125979baaaff98d2d86610764
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\passkey_authenticator_plugin.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: 1c65aa07711406913fa74e1c33cb0296e383d263
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\pathchk.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e6d90818c4212432825c9fd8ce1697dec65a1fef
+
+c:\program files\windowsapps\microsoft.people_10.1902.633.0_x64__8wekyb3d8bbwe\peopleapp.exe  LastWrite: 2026-03-09 19:36:43Z
+Hash: 9891da53c0c40be88ba19e98b595a0964bd91d27
+
+c:\program files\windowsapps\microsoft.windowsfeedbackhub_1.1907.3152.0_x64__8wekyb3d8bbwe\pilotshubapp.exe  LastWrite: 2026-03-09 19:36:53Z
+Hash: 5012e4c1b5418b1352cd5a7471989d963ba1a53e
+
+c:\program files\mozilla firefox\pingsender.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: c4299cdac6e98295b66b0cfab73490008b9f06b4
+
+c:\program files\google\chrome\application\platformexperiencehelper\platform_experience_helper.exe  LastWrite: 2026-03-11 17:08:49Z
+Hash: 84080eb788fa6aa34dbf475f8ed2182690d13549
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\plugin-browser\plugin-browser.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 358883c30a0fcb1a18eb961886afbdbd29c8a0b9
+
+c:\program files\mozilla firefox\plugin-container.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: c15599a11b98e983cf3492a9918b2807a58a5acd
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\print\print.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 1976310400295008fd1edf3297ad2230745e1ee6
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\printenvz.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 74fe014e81ef073e7aeabf8b506bf32e0dfb0153
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\printf.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 5768e1901d61accd863d6ac8ad9649552fc0435b
+
+c:\program files\mozilla firefox\private_browsing.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: 289b44787046d26a956e224a0f9f68329e79bf75
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\procedure-browser\procedure-browser.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 78f8838eb7818c970b4512b912b1acc3af1c8072
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\process-proxy.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: c1ed8fdf240a60037250b2d2cac9a4e0ddcd31d2
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\profiler.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 70c7041abce4f308660923e2ebf49eff1ae00fff
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\proxy-lookup.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: e409aa1820bdcb4bf83713f3021ba9622575fd86
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\psl.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 76f26378da58e82a3f916e28c48e730318f9fdf1
+
+c:\program files (x86)\microsoft\edge\application\pwahelper.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: c4d98904f03132ca353df28daa6fc880e45a6bd1
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\pwahelper.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: c4d98904f03132ca353df28daa6fc880e45a6bd1
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\pwahelper.exe  LastWrite: 2026-03-11 17:09:00Z
+Hash: c4d98904f03132ca353df28daa6fc880e45a6bd1
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\pwahelper.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: c4d98904f03132ca353df28daa6fc880e45a6bd1
+
+c:\program files (x86)\microsoft\edgecore\optimized\pwahelper.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: c4d98904f03132ca353df28daa6fc880e45a6bd1
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\pwd.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: cbadc5ddafe2329fb55b8165bb23d12e9efeb0f8
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\python.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 7638b060e03bec1efc5542fb4426dba5ad48118d
+
+c:\program files\libreoffice\program\python.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 6ed3881de863dd05343eb848bbb905a412fc937f
+
+c:\program files\libreoffice\program\python-core-3.12.12\bin\python.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: c02ec3b87119ae85775f66e2972e88c1076e30d4
+
+c:\program files\libreoffice\program\python-core-3.12.12\bin\pythonw.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: d2e9bab3c2d3f63a9c0d206c07ba6fb147af4e8f
+
+c:\users\jon\appdata\local\programs\gimp 3\bin\pythonw.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8c9d13084e252592a16891382ace2e445d3b0aca
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\qbist\qbist.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 9edb1b216dae72b77f6c63c0f7fe103e7cc8b9dd
+
+c:\program files\libreoffice\program\quickstart.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 156ac1b92e15cba061968e4f0ebb5a14b8e80299
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\readlink.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: fa301d02078fb6990afc06d9a49f665dda3fc9ed
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\rebase.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 8ccda1f19713f4773c656d8df78f90719d17fa34
+
+c:\program files\libreoffice\program\regview.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: b027d9b89fcdb8bb01e8ffe74b01e5c990f7fb4f
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\ce099c1ed2\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: d8267c1d148a9d78ff008d41032322abb9d1bf43
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\rm.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 5d0db75f28af058ee5962e8af152779f02b4984d
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\rmdir.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 4f129d4496d1411d88f82e8f344315274fd8e2f7
+
+c:\users\jon\appdata\local\roblox\versions\version-d599f7fc52a8404c\robloxcrashhandler.exe  LastWrite: 2026-03-09 19:51:32Z
+Hash: ce59335317d074ce0c579119c7d99b221ebbf1d9
+
+c:\users\jon\appdata\local\roblox\versions\version-d599f7fc52a8404c\robloxplayerbeta.exe  LastWrite: 2026-03-09 19:51:32Z
+Hash: fc1bdc8cd75ebe737bdf1e168c05c0d12e86dfd3
+
+c:\users\jon\appdata\local\roblox\versions\version-d599f7fc52a8404c\robloxplayerinstaller.exe  LastWrite: 2026-03-09 19:51:32Z
+Hash: 049e5122ad6a2bbb10019010f61672de73f14444
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\sample-colorize\sample-colorize.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 2dc8fbf778541a9d8047f8206192dcab765fcf92
+
+c:\program files\libreoffice\program\sbase.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: f2673d1d769123369f5cb98628fce3287e75093d
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\mingw64\bin\scalar.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: fa8f8a2a52465c03dfa0722da97b4ea0c11d123d
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\cmd\scalar.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 085e93a400c7976d0e2bc8c74b52aef13fac9d52
+
+c:\program files\libreoffice\program\scalc.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: dbd0d54475eaa665b5d342dc930aa4ec1fbcd81e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\screenshot\screenshot.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3ef2049ea5cb401ea3e96fbe94a149cd5339f0a7
+
+c:\program files\windowsapps\microsoft.screensketch_10.1907.2471.0_x64__8wekyb3d8bbwe\screensketch.exe  LastWrite: 2026-03-09 19:36:43Z
+Hash: 8bc8389bfa24b9db44ef579837e8487c2c482ac7
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\script-fu-server\script-fu-server.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 5fb2698680a399a73cbaa16c4c67ca8b10795873
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\script-fu\script-fu.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 09fcebb6f49daeabb9d13f2a3253c579457bba80
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\sdiff.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: b06b0952f73d20b0d4970909b783746111aaf44e
+
+c:\program files\libreoffice\program\sdraw.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 67a402f4717d2fa99c43c846f3158457221401ae
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\sed.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: ec136b3dc4c115cc0acd47fc90b7ddb7f7ee3927
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\selection-to-path\selection-to-path.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 76845c13d92d3fbf08190d9182a7825f02e9a2a5
+
+c:\program files\libreoffice\program\senddoc.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 665d0f50fccee31c14793997c448195526b8145a
+
+c:\program files (x86)\microsoft\edgecore\optimized\installer\setup.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: 7b08d06773e4748cfb7df1eb1a3cea3eebdfa129
+
+c:\program files (x86)\microsoft\edgewebview\application\145.0.3800.97\installer\setup.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: 7b08d06773e4748cfb7df1eb1a3cea3eebdfa129
+
+c:\program files (x86)\microsoft\edgecore\145.0.3800.97\installer\setup.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: 7b08d06773e4748cfb7df1eb1a3cea3eebdfa129
+
+c:\program files (x86)\microsoft\edge\application\145.0.3800.97\installer\setup.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: 7b08d06773e4748cfb7df1eb1a3cea3eebdfa129
+
+c:\program files\google\chrome\application\145.0.7632.160\installer\setup.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: b048fe1d872682b4d91dcd16d3e545e797ecfe3a
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\sh.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 9608683a04d8a6b88661df739d6048d42028acda
+
+c:\windows\system32\sihclient.exe  LastWrite: 2026-03-10 15:16:10Z
+Hash: e33dbc7e02e7bff866963396e9a52a0b225f6dac
+
+c:\program files\libreoffice\program\simpress.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: e8bf2547e1fcd42868b97149b9b374df9f66a55b
+
+c:\program files\windowsapps\microsoft.skypeapp_14.53.77.0_x64__kzf8qxf38zg5c\skypeapp.exe  LastWrite: 2026-03-09 19:36:43Z
+Hash: 7ab8040343b1255f8bd765d2fcb78f834fa00c5c
+
+c:\program files\windowsapps\microsoft.skypeapp_14.53.77.0_x64__kzf8qxf38zg5c\skypebackgroundhost.exe  LastWrite: 2026-03-09 19:36:43Z
+Hash: a6cf5e455d2704276ed7331dfe1f7e580ea8794e
+
+c:\program files\windowsapps\microsoft.skypeapp_14.53.77.0_x64__kzf8qxf38zg5c\skypebridge\skypebridge.exe  LastWrite: 2026-03-09 19:36:43Z
+Hash: d78a5eef47183147d7888fcf05be2773a7834464
+
+c:\program files\windowsapps\com.tinyspeck.slackdesktop_4.48.100.0_x64__8yrtsj140pw4g\app\slack.exe  LastWrite: 2026-03-11 17:08:43Z
+Hash: d726f58d83506a3d07883b83ba19459b3028ae54
+
+c:\program files\libreoffice\program\smath.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: f24da989df3ce55d8e65ffa5a893882d2ccbaa4f
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\smooth-palette\smooth-palette.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 4160e4adf5fd41ffa9300ff87d31ee9657113fba
+
+c:\program files\libreoffice\program\soffice.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 533e7df81c5e919fa3f653ac97b5568dba13861e
+
+c:\program files\libreoffice\program\soffice_safe.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 2417a9821b8904d825195de163ae62320db0d347
+
+c:\program files\windowsapps\microsoft.microsoftsolitairecollection_4.4.8204.0_x64__8wekyb3d8bbwe\solitaire.exe  LastWrite: 2026-03-09 19:36:37Z
+Hash: 5e46aa97ec6744f0f8006a08cc39704871ff4004
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\sort.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: a661e467e673bd405c68a53b7df5154a3a0cb672
+
+c:\program files\windowsapps\microsoft.windowssoundrecorder_10.1906.1972.0_x64__8wekyb3d8bbwe\soundrec.exe  LastWrite: 2026-03-09 19:36:54Z
+Hash: 4ae1f8fc49d225163138d1d1bb8f398dc01e6c6a
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\sparkle\sparkle.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 3fe8c6e3bd8f066829939aec5b8ae8bb99ca8e6e
+
+c:\program files\windowsapps\microsoft.xboxspeechtotextoverlay_1.17.29001.0_x64__8wekyb3d8bbwe\speechtotextoverlay64-retail.exe  LastWrite: 2026-03-09 19:36:57Z
+Hash: 3d6098f645d0d7901894a5560a27cdc47500cb51
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\sphere-designer\sphere-designer.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: fd85d90e2fa6cb4ee1729d286f1a475b96e38192
+
+c:\program files\libreoffice\program\spsupp_helper.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 75066d665ef4fcb3099f35fb40a0a884d9200b4f
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\squirrel.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 05edf7d6fe533ab313d1e72e66e01a7a14eb1675
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\ssh-add.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: b59f7c37fd26052bc5aa1469d13ec128c0165373
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\ssh-agent.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 2e7cc9309ca65747fa94af0092966e178fb565d7
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\lib\ssh\ssh-keysign.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 361cfee4d8aec035b9c2ee47ec383af409f20e9c
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\lib\ssh\ssh-pkcs11-helper.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 234b4b3a5e76e73e0d46be411cd8ff3695d58139
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\lib\ssh\ssh-sk-helper.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: b2d109d42e3c355e26a1163b7998c0ec3391d85a
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\ssh.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 2b7ed806b03a76838c8e00574b47b1cd2926edb9
+
+c:\program files\windowsapps\microsoft.storepurchaseapp_11811.1001.18.0_x64__8wekyb3d8bbwe\storeexperiencehost.exe  LastWrite: 2026-03-09 19:36:46Z
+Hash: 89e1e4f4d278a9927e9b972612c98de47ffcfddc
+
+c:\windows\system32\svchost.exe  LastWrite: 2026-03-09 19:28:09Z
+Hash: 445f5f38365af88ec29b357f4696f0e3ee50a1d8
+
+c:\program files\libreoffice\program\sweb.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 2e792561eb74f45bd6f34be00f750bfd9449d030
+
+c:\program files\libreoffice\program\swriter.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 852e9ca58ea8837a9377212c2da059bfa79d6ff1
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\t32.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: c6f8034e2e8183d35d3f2b035405294ee01fa273
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\t64-arm.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: c88f99bb82cbbf96992c36b61f6c614a15abc9d6
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\t64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 0d0c5e3b06f56ad12a77da46ab3fdab81acda628
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\tail.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 54a2c0c9a72f927912ce64b4ea4f6e495f82e926
+
+c:\windows\system32\taskhostw.exe  LastWrite: 2026-03-09 19:30:56Z
+Hash: 79c9a666e776781578db55d1ca191c15e10b74e6
+
+c:\program files\windowsapps\microsoft.xbox.tcui_1.23.28002.0_x64__8wekyb3d8bbwe\tcui-app.exe  LastWrite: 2026-03-09 19:36:55Z
+Hash: 67571511cceb3d2dbc14d6f5a8b1c4483c558178
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\test.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: d4a9b9306ec36334c60bece19e6ae03fff935d9e
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\cmd\tig.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 3064154e808cf5bedf0acd089b73e6690f812296
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\tile-small\tile-small.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 89780a7125795160f07a73c6453766c1595028db
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\tile\tile.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: c2fe2d545e6412e5cd92e50aa04558325bec7a83
+
+c:\program files\windowsapps\microsoft.windowsalarms_10.1906.2182.0_x64__8wekyb3d8bbwe\time.exe  LastWrite: 2026-03-09 19:36:50Z
+Hash: 3ef531d6229b66eae7cd0f83bd59b4b9c54ed010
+
+c:\windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\tiworker.exe  LastWrite: 2026-03-09 19:37:49Z
+Hash: 99bf5030a015c2f5bea0ab7196b925f6b8d959f9
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\touch.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: a5c5f882bcfe261ada9a460cfd2a2aa55765e96f
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\tr.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: d4364773c4589cc49bd943aa9ccd518b4f0b6f42
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\true.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: d9904cd42b1728ffa5c6635d50a72ec6ac8568db
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\twain\twain.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8d2af73ed226ca5b31496f7783d22d22210aaad9
+
+c:\program files\libreoffice\program\twain32shim.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: b26bd7292141fa1db9bedff0792838553eb600a9
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\uname.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: c85b94caba40d03c6688e2738570a4c1d458191b
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\unins000.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: d96c74ec674af17aa0a40b0cbe9c45e438e4ad4b
+
+c:\users\jon\appdata\local\programs\gimp 3\uninst\unins000.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 29334cc5207c1a9c12a76affe87cd89942924412
+
+c:\program files (x86)\videolan\vlc\uninstall.exe  LastWrite: 2026-03-09 21:59:22Z
+Hash: c1fe2bfee8fa5fa716634bc835a08069e1e0fa56
+
+c:\program files\7-zip\uninstall.exe  LastWrite: 2026-03-09 21:39:42Z
+Hash: e4b3adfb36120dd3da027c1f0b9410d33fda0ddf
+
+c:\program files (x86)\mozilla maintenance service\uninstall.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: a70c71c2163fd14541e51544ed00ce86bcab004b
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\uniq.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 81734a2df0e407fd2f4c80e5618ac6971481b17c
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\unit-editor\unit-editor.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 1aa3995062464c2a9618102baf91707694a02c23
+
+c:\program files\libreoffice\program\uno.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 1e1780334efe24a23a1a09632738e7ad96e7d4a0
+
+c:\program files\libreoffice\program\unoinfo.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: e9b00ba78accc77dcf7b7da0323d7624cfc57827
+
+c:\program files\libreoffice\program\unopkg.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 1a6edff676c0c61436451a3f38e2a76e1350c9c3
+
+c:\users\robb\appdata\local\githubdesktop\update.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 05edf7d6fe533ab313d1e72e66e01a7a14eb1675
+
+c:\program files\libreoffice\program\updater.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 7b0a2c790f2078901722499c09c7f63eb3847f72
+
+c:\program files\mozilla firefox\updater.exe  LastWrite: 2026-03-12 01:57:53Z
+Hash: cfe790f3e300686857ead49aa15c8a2b18fa725e
+
+c:\program files (x86)\google\googleupdater\147.0.7703.0\updater.exe  LastWrite: 2026-03-09 19:37:46Z
+Hash: 41a73d89765b6c5f33261409e27827de3c86af14
+
+c:\program files\libreoffice\program\update_service.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: bf1a7b464dfa9ce73299688f6b1929e264358495
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\van-gogh-lic\van-gogh-lic.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 1e163ffd144b301f31e8786460c536857c11db73
+
+c:\users\administrator\downloads\velociraptor-v0.75.2-windows-amd64.exe  LastWrite: 2026-03-11 17:09:01Z
+Hash: 7b8133aba310af0f828bd988e4030a745a30afbe
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\python3.14\venv\scripts\nt\venvlauncher.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: cc082ffd818b6af85869dbec652f70d3721b8388
+
+c:\program files\libreoffice\program\python-core-3.12.12\bin\venvlauncher.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 5f727a9176ee8e27f8431bee9007290619815f5e
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\python3.14\venv\scripts\nt\venvwlauncher.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 364b5db85fb352887bbf6c512d9f654ede05dcd5
+
+c:\program files\veracrypt\veracrypt format.exe  LastWrite: 2026-03-09 21:59:16Z
+Hash: 11104be5d552a8b215f87549911958cc77ae6c28
+
+c:\program files\veracrypt\veracrypt setup.exe  LastWrite: 2026-03-09 21:59:16Z
+Hash: 46a41a62cf324d78815197791daf6295fd7e71e6
+
+c:\program files\veracrypt\veracrypt.exe  LastWrite: 2026-03-09 21:59:16Z
+Hash: 8e61431a87d3121d519a9157c1b712a4778dad89
+
+c:\program files\veracrypt\veracrypt.sys  LastWrite: 2026-03-09 21:59:16Z
+Hash: 0b27ee5e4fc40e76ab159a6f4561b0d2209401a2
+
+c:\program files\veracrypt\veracryptexpander.exe  LastWrite: 2026-03-09 21:59:16Z
+Hash: bf146cf2b84931fb9cfb30310ca4c0d6d6ae93bb
+
+c:\program files\windowsapps\microsoft.zunevideo_10.19071.19011.0_x64__8wekyb3d8bbwe\video.ui.exe  LastWrite: 2026-03-09 19:36:59Z
+Hash: 6730b50c2ba784b657c9401fc974c25ebcc13cbe
+
+c:\program files\windowsapps\microsoft.microsoft3dviewer_6.1908.2042.0_x64__8wekyb3d8bbwe\view3d.resourceresolver.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: 1b7d4d073107ff938dfe41c2e42ab615cc36ff5f
+
+c:\program files (x86)\videolan\vlc\vlc-cache-gen.exe  LastWrite: 2026-03-09 21:59:22Z
+Hash: 23d8a4bb840adb5c87570458850ea11f009b7059
+
+c:\program files (x86)\videolan\vlc\vlc.exe  LastWrite: 2026-03-09 21:59:22Z
+Hash: df10ae3b2808f790e9ec9603023cb36865f43053
+
+c:\users\administrator\appdata\local\programs\microsoft vs code\ce099c1ed2\resources\app\node_modules\@vscode\vsce-sign\bin\vsce-sign.exe  LastWrite: 2026-03-09 22:16:58Z
+Hash: e11984c9213fae9c667e77c283f6021eb6ce12d3
+
+c:\users\administrator\downloads\vscodeusersetup-x64-1.111.0.exe  LastWrite: 2026-03-11 17:09:02Z
+Hash: b2d03b152ec444459f86e3b65b5b56dab05d0d1b
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\w32.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 3a1e4e67422d9dd54f7e8bba2bb014474d2f6ea0
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\w64-arm.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: e0db21e02eea22f0da5b44745d1dd0184ddc6ebe
+
+c:\program files\libreoffice\program\python-core-3.12.12\lib\pip\_vendor\distlib\w64.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 34d3e30bcbf87581902409bf5f621f48c5fc2b10
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\warp\warp.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 8039073267c82d34ff0778d2b0b1f37c59f44657
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\wavelet-decompose\wavelet-decompose.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: bc81b705b2f9cb80bc3e409933abe6732b411609
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\wc.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: 4638890471aa89744cbc3c8213e899c6e0dd6faf
+
+c:\users\jon\appdata\local\programs\gimp 3\lib\gimp\3.0\plug-ins\web-browser\web-browser.exe  LastWrite: 2026-03-09 19:50:55Z
+Hash: 0a1484f2d4533e7537356842650bfaa39951da2b
+
+c:\program files\windowsapps\microsoft.getstarted_8.2.22942.0_x64__8wekyb3d8bbwe\whatsnew.store.exe  LastWrite: 2026-03-09 19:36:36Z
+Hash: d02890b85fbabb3fa19fe6c34c893eb470c1cb6d
+
+c:\program files\windowsapps\microsoft.549981c3f5f10_1.1911.21713.0_x64__8wekyb3d8bbwe\win32bridge.server.exe  LastWrite: 2026-03-09 19:36:35Z
+Hash: 4ad9cb8b50255c677c1ccaa75d7e7e3d90122c92
+
+c:\program files\windowsapps\microsoft.windowscamera_2018.826.98.0_x64__8wekyb3d8bbwe\windowscamera.exe  LastWrite: 2026-03-09 19:36:51Z
+Hash: f04138c6a955d0f8af44f2920ef2775272822d7e
+
+c:\program files\windowsapps\microsoft.windowsstore_11910.1002.5.0_x64__8wekyb3d8bbwe\winstore.app.exe  LastWrite: 2026-03-09 19:36:55Z
+Hash: 4efe9343cefcd06ca2667da20bdd963ebb4c5a9b
+
+c:\users\robb\appdata\local\githubdesktop\app-3.5.5\resources\app\git\usr\bin\xargs.exe  LastWrite: 2026-03-09 21:59:26Z
+Hash: dc2ae2e081c93e2d71214941116b95d2b9603f2f
+
+c:\program files\windowsapps\microsoft.xboxapp_48.49.31001.0_x64__8wekyb3d8bbwe\xboxapp.exe  LastWrite: 2026-03-09 19:36:55Z
+Hash: f5c5c71237763341b5be145e12e6e7bd3fa560f1
+
+c:\program files\windowsapps\microsoft.xboxidentityprovider_12.50.6001.0_x64__8wekyb3d8bbwe\xboxidp.exe  LastWrite: 2026-03-09 19:36:57Z
+Hash: f544b56a1aa2cd1644007b4dce87c00058050179
+
+c:\program files\libreoffice\program\xpdfimport.exe  LastWrite: 2026-03-09 21:59:15Z
+Hash: 96ac5af064b71099d32b7192266cf28a68fd2caf
+
+c:\program files\windowsapps\microsoft.yourphone_0.19051.7.0_x64__8wekyb3d8bbwe\yourphone.exe  LastWrite: 2026-03-09 19:36:57Z
+Hash: 3a9e83f2aedf2c924a0a38452d820408a0a24c60
+
+
+Wed Mar 11 17:08:39 2026 - Microsoft.WindowsCamera v.2018.826.98.0
+Wed Mar 11 17:08:37 2026 - Microsoft.VP9VideoExtensions v.1.0.22681.0
+Wed Mar 11 17:08:40 2026 - Microsoft.WindowsStore v.11910.1002.5.0
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.OOBENetworkCaptivePortal v.10.0.19041.3636
+Wed Mar 11 17:08:43 2026 - com.tinyspeck.slackdesktop v.4.48.100.0
+Wed Mar 11 17:08:39 2026 - microsoft.windowscommunicationsapps v.16005.11629.20316.0
+Wed Mar 11 17:08:52 2026 - Roblox Player for jon v.
+Wed Mar 11 17:08:28 2026 - Microsoft.MicrosoftEdgeDevToolsClient v.1000.19041.3636.0
+Wed Mar 11 17:08:29 2026 - Microsoft.Windows.CloudExperienceHost v.10.0.19041.3636
+Wed Mar 11 17:08:34 2026 - Microsoft.DesktopAppInstaller v.1.0.30251.0
+Wed Mar 11 17:08:40 2026 - Microsoft.Xbox.TCUI v.1.23.28002.0
+Wed Mar 11 17:08:43 2026 - Mozilla Firefox (x64 en-US) v.148.0
+Wed Mar 11 17:08:41 2026 - Microsoft.ZuneVideo v.10.19071.19011.0
+Wed Mar 11 17:08:38 2026 - Microsoft.WindowsAlarms v.10.1906.2182.0
+Wed Mar 11 17:08:31 2026 - Microsoft.Windows.StartMenuExperienceHost v.10.0.19041.3636
+Wed Mar 11 17:08:28 2026 - Microsoft.CredDialogHost v.10.0.19041.3636
+Wed Mar 11 17:08:28 2026 - Microsoft.ECApp v.10.0.19041.3636
+Wed Mar 11 17:08:43 2026 - Google Chrome v.145.0.7632.160
+Wed Mar 11 17:08:29 2026 - Microsoft.Win32WebViewHost v.10.0.19041.3636
+Wed Mar 11 17:08:43 2026 - Microsoft Edge v.145.0.3800.97
+Wed Mar 11 17:08:31 2026 - Microsoft.XboxGameCallableUI v.1000.19041.3636.0
+Wed Mar 11 17:08:43 2026 - Mozilla Maintenance Service v.148.0
+Thu Mar 12 01:57:53 2026 - Mozilla Firefox (x64 en-US) v.148.0.2
+Wed Mar 11 17:08:35 2026 - Microsoft.MicrosoftOfficeHub v.18.1903.1152.0
+Wed Mar 11 17:08:32 2026 - MicrosoftWindows.UndockedDevKit v.10.0.19041.3636
+Wed Mar 11 17:08:29 2026 - Microsoft.Windows.Apprep.ChxApp v.1000.19041.3636.0
+Wed Mar 11 17:08:39 2026 - Microsoft.WindowsMaps v.5.1906.1972.0
+Wed Mar 11 17:08:43 2026 - VLC media player v.3.0.23
+Wed Mar 11 17:08:44 2026 - Microsoft Visual Studio Code (User) v.1.111.0
+Wed Mar 11 17:08:52 2026 - GIMP 3.0.8-2 v.3.0.8.2
+Wed Mar 11 17:08:31 2026 - Microsoft.Windows.Search v.1.14.10.19041
+Wed Mar 11 17:08:27 2026 - F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE v.10.0.19041.3636
+Wed Mar 11 17:08:33 2026 - windows.immersivecontrolpanel v.10.0.2.1000
+Wed Mar 11 17:08:37 2026 - Microsoft.StorePurchaseApp v.11811.1001.18.0
+Wed Mar 11 17:08:27 2026 - c5e2524a-ea46-4f67-841f-6a9465d9d515 v.10.0.19041.3636
+Wed Mar 11 17:08:28 2026 - Microsoft.LockApp v.10.0.19041.3636
+Wed Mar 11 17:08:40 2026 - Microsoft.XboxGamingOverlay v.2.34.28001.0
+Wed Mar 11 17:08:34 2026 - Microsoft.BingWeather v.4.25.20211.0
+Wed Mar 11 17:08:31 2026 - Microsoft.Windows.SecHealthUI v.10.0.19041.3636
+Wed Mar 11 17:08:38 2026 - Microsoft.Windows.Photos v.2019.19071.12548.0
+Wed Mar 11 17:08:44 2026 - Microsoft OneDrive v.26.026.0209.0004
+Wed Mar 11 17:08:37 2026 - Microsoft.Wallet v.2.4.18324.0
+Wed Mar 11 17:08:27 2026 - E2A4F912-2574-4A75-9BB0-0D023378592B v.10.0.19041.3636
+Wed Mar 11 17:08:31 2026 - Microsoft.Windows.XGpuEjectDialog v.10.0.19041.3636
+Wed Mar 11 17:08:40 2026 - Microsoft.XboxGameOverlay v.1.46.11001.0
+Wed Mar 11 17:08:36 2026 - Microsoft.MixedReality.Portal v.2000.19081.1301.0
+Wed Mar 11 17:08:37 2026 - Microsoft.SkypeApp v.14.53.77.0
+Wed Mar 11 17:08:37 2026 - Microsoft.People v.10.1902.633.0
+Wed Mar 11 17:08:37 2026 - Microsoft.ScreenSketch v.10.1907.2471.0
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.OOBENetworkConnectionFlow v.10.0.19041.3636
+Wed Mar 11 17:08:41 2026 - Microsoft.YourPhone v.0.19051.7.0
+Wed Mar 11 17:08:35 2026 - Microsoft.Getstarted v.8.2.22942.0
+Wed Mar 11 17:08:27 2026 - Microsoft.AccountsControl v.10.0.19041.3636
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.ContentDeliveryManager v.10.0.19041.3636
+Wed Mar 11 17:08:35 2026 - Microsoft.Microsoft3DViewer v.6.1908.2042.0
+Wed Mar 11 17:08:27 2026 - 1527c705-839a-4832-9118-54d4Bd6a0c89 v.10.0.19041.3636
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.ParentalControls v.1000.19041.3636.0
+Wed Mar 11 17:08:41 2026 - Microsoft.ZuneMusic v.10.19071.19011.0
+Wed Mar 11 17:08:39 2026 - Microsoft.WindowsFeedbackHub v.1.1907.3152.0
+Wed Mar 11 17:08:34 2026 - Microsoft.549981C3F5F10 v.1.1911.21713.0
+Wed Mar 11 17:08:35 2026 - Microsoft.GetHelp v.10.1706.13331.0
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.PinningConfirmationDialog v.1000.19041.3636.0
+Wed Mar 11 17:08:38 2026 - Microsoft.WindowsCalculator v.10.1906.55.0
+Wed Mar 11 17:08:31 2026 - Microsoft.Windows.ShellExperienceHost v.10.0.19041.3636
+Wed Mar 11 17:08:33 2026 - Windows.CBSPreview v.10.0.19041.3636
+Wed Mar 11 17:08:38 2026 - Microsoft.WebpImageExtension v.1.0.22753.0
+Wed Mar 11 17:08:31 2026 - MicrosoftWindows.Client.CBS v.1000.19053.1000.0
+Wed Mar 11 17:08:43 2026 - VeraCrypt v.1.26.24
+Wed Mar 11 17:08:40 2026 - Microsoft.XboxApp v.48.49.31001.0
+Wed Mar 11 17:08:29 2026 - Microsoft.Windows.CapturePicker v.10.0.19041.3636
+Wed Mar 11 17:08:40 2026 - Microsoft.XboxIdentityProvider v.12.50.6001.0
+Wed Mar 11 17:08:35 2026 - Microsoft.MicrosoftSolitaireCollection v.4.4.8204.0
+Wed Mar 11 17:08:43 2026 - 7-Zip 26.00 (x64) v.26.00
+Wed Mar 11 17:08:36 2026 - Microsoft.MicrosoftStickyNotes v.3.6.73.0
+Wed Mar 11 17:08:52 2026 - GitHub Desktop v.3.5.5
+Wed Mar 11 17:08:32 2026 - NcsiUwpApp v.1000.19041.3636.0
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.PeopleExperienceHost v.10.0.19041.3636
+Wed Mar 11 17:08:27 2026 - Microsoft.AAD.BrokerPlugin v.1000.19041.3636.0
+Wed Mar 11 17:08:43 2026 - Microsoft Edge WebView2 Runtime v.145.0.3800.97
+Wed Mar 11 17:08:36 2026 - Microsoft.Office.OneNote v.16001.12026.20112.0
+Wed Mar 11 17:08:43 2026 - LibreOffice 26.2.1.2 v.26.2.1.2
+Wed Mar 11 17:08:28 2026 - Microsoft.AsyncTextService v.10.0.19041.3636
+Wed Mar 11 17:08:30 2026 - Microsoft.Windows.NarratorQuickStart v.10.0.19041.3636
+Wed Mar 11 17:08:52 2026 - Microsoft OneDrive v.21.220.1024.0005
+Wed Mar 11 17:08:29 2026 - Microsoft.Windows.CallingShellApp v.1000.19041.3636.0
+Wed Mar 11 17:08:28 2026 - Microsoft.BioEnrollment v.10.0.19041.3636
+Wed Mar 11 17:08:40 2026 - Microsoft.XboxSpeechToTextOverlay v.1.17.29001.0
+Wed Mar 11 17:08:35 2026 - Microsoft.HEIFImageExtension v.1.0.22742.0
+Wed Mar 11 17:08:42 2026 - Microsoft.MicrosoftEdge.Stable v.145.0.3800.97
+Wed Mar 11 17:08:34 2026 - Windows.PrintDialog v.6.2.1.0
+Wed Mar 11 17:08:36 2026 - Microsoft.MSPaint v.6.1907.29027.0
+Wed Mar 11 17:08:40 2026 - Microsoft.WindowsSoundRecorder v.10.1906.1972.0
+Thu Mar 12 02:02:37 2026 - Microsoft OneDrive v.26.032.0217.0003
+Wed Mar 11 17:08:38 2026 - Microsoft.WebMediaExtensions v.1.0.20875.0
+
+Root\File not found.
+
+Root\Programs not found.
