@@ -4,7 +4,7 @@ Title: A workstation in the design lab crashed during an overnight maintenance w
 
 1. Phân tích file
 Chall cho 1 file dmp đây là file của bộ nhớ Ram, dùng vol để phân tích các thông tin của Ram
-![alt text](picture\1.png)
+![alt text](picture/1.png)
 trong phần Suggested không thấy bất kì hệ điều hành nào khả dụng vì vậy không thể dùng vol để tiếp tục phân tích
 2. chuyển hướng phân tích khác
 - Dùng strings để đọc dữ liệu của file dmp này 
