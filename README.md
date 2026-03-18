@@ -108,3 +108,50 @@ Trong điều tra hiện đại, thay vì sao chép toàn bộ ổ cứng (Full 
   * `strings -e l <file>`: Đọc các chuỗi văn bản (có định dạng UTF-16) ẩn trong tệp nhị phân.
   * `grep -ioE '\b[a-f0-9]{40}\b'`: Dùng Regex (Biểu thức chính quy) để "lọc" chính xác các chuỗi có định dạng của mã SHA1.
 
+# 🕵️‍♂️ VOLATILITY FORENSICS - CHEAT SHEET
+
+Bản tóm tắt các lệnh và plugin quan trọng trong Volatility 2, dùng trong điều tra bộ nhớ (Memory Forensics) và giải các bài Lab/CTF.
+
+**Cấu trúc lệnh cơ bản:**
+`python2 vol.py -f [ten_file_dump] --profile=[Profile_He_Dieu_Hanh] [Ten_Plugin] [Tham_so]`
+
+*Ví dụ:* `python2 vol.py -f ch2.dmp --profile=Win7SP1x86 netscan`
+
+---
+
+## 🌐 1. Nhóm Phân tích Mạng (Network Analysis)
+
+| Plugin | Chức năng & Thông tin mang lại |
+| :--- | :--- |
+| **`netscan`** | Tìm tất cả các kết nối mạng TCP/UDP (cả đang mở lẫn đã đóng). Cung cấp IP/Cổng nguồn, IP/Cổng đích, Trạng thái (ESTABLISHED/LISTENING) và PID tiến trình tạo ra kết nối đó. |
+
+## ⚙️ 2. Nhóm Điều tra Tiến trình & Dòng lệnh (Processes & Commands)
+
+| Plugin | Chức năng & Thông tin mang lại |
+| :--- | :--- |
+| **`pslist`** | Liệt kê các tiến trình đang hoạt động (giống Task Manager). Cho biết tên tiến trình, PID, PPID (Tiến trình cha), và thời gian khởi chạy. |
+| **`psscan`** | Quét sâu vào vùng nhớ để tìm cấu trúc tiến trình. **Rất mạnh** để tìm các tiến trình tàng hình (rootkit) hoặc các tiến trình đã kết thúc (Terminated) mà `pslist` bỏ sót. |
+| **`cmdline`** | Hiển thị các tham số dòng lệnh được truyền vào khi khởi chạy chương trình (Trích xuất từ khối PEB). Rất tốt để tìm tham số độc hại (VD: `tcprelay.exe -l 4444`). |
+| **`consoles`** | Trích xuất bộ đệm màn hình và lịch sử gõ phím của cửa sổ CMD (`cmd.exe`). Cho biết chính xác hacker đã gõ lệnh gì, xem file gì, ở thư mục nào theo thứ tự thời gian. |
+
+## 💾 3. Nhóm Trích xuất Bộ nhớ & Tập tin (Dumping & Extraction)
+
+*(Lưu ý: Thêm tham số `-D ./` ở cuối lệnh để lưu file đầu ra vào thư mục hiện tại).*
+
+| Plugin | Chức năng & Thông tin mang lại |
+| :--- | :--- |
+| **`memdump -p [PID]`** | Trích xuất toàn bộ không gian bộ nhớ RAM của một tiến trình thành file `.dmp`. Dùng lệnh `strings` lên file này để đọc các văn bản bị sót lại (như chữ trên màn hình CMD, lịch sử duyệt web). |
+| **`procdump -p [PID]`** | Trích xuất file thực thi (`.exe`) của tiến trình ra khỏi RAM. Dùng để đem đi phân tích mã độc tĩnh, dịch ngược (Reverse Engineering) hoặc tìm tên miền C&C được code cứng. |
+
+## 🔑 4. Nhóm Trích xuất Thông tin Xác thực (Credentials)
+
+| Plugin | Chức năng & Thông tin mang lại |
+| :--- | :--- |
+| **`hivelist`** | Liệt kê danh sách và địa chỉ bộ nhớ (Virtual Offsets) của các file Registry đang nạp trong RAM. Cung cấp địa chỉ của `SYSTEM` và `SAM` để bẻ khóa mật khẩu. |
+| **`hashdump -y [SYS_Offset] -s [SAM_Offset]`** | Trích xuất mã băm mật khẩu (NTLM Hash) của tất cả người dùng cục bộ từ file SAM. Lấy mã này đem lên CrackStation để bẻ khóa tìm mật khẩu thật. |
+| **`mimikatz`** | Quét bộ nhớ của tiến trình `lsass.exe` để trích xuất thẳng mật khẩu dạng rõ (Plaintext) nếu hệ thống cấu hình lỏng lẻo. Đỡ mất công phải đi crack hash. |
+
+---
+
+
+
