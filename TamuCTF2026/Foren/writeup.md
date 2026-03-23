@@ -75,3 +75,40 @@ Ví dụ memory_1 ta lấy 1p43s=60+43=103 =(g)
 60+45=105(i)
 103 105 103 101 109 123 98 121 103 48 110 51 95 51 114 52 125
 cứ tiếp tục ta sẽ có flag :gigem{byg0n3_3r4}
+
+# Colonel
+Tác giả cho ta một file dump và bắt tìm flag nhưng lần này là của Linux 
+Dùng vol để phân tích  
+```
+└─$ python3 vol.py -f /mnt/hgfs/share/CTF/Tamu/colonel/memory.dump linux.bash.Bash
+Volatility 3 Framework 2.28.0
+Progress:  100.00               Stacking attempts finished            
+PID     Process CommandTime     Command
+
+4269    bash    2026-02-14 21:48:53.000000 UTC  ls
+4269    bash    2026-02-14 21:48:53.000000 UTC  ls /tmp
+4269    bash    2026-02-14 21:48:53.000000 UTC  exit
+4269    bash    2026-02-14 21:48:56.000000 UTC  cd validate/
+4269    bash    2026-02-14 21:49:03.000000 UTC  sudo insmod check_service.ko key_path=validation
+4269    bash    2026-02-14 21:49:09.000000 UTC  sudo rmmod check_service
+4269    bash    2026-02-14 21:49:11.000000 UTC  sudo insmod check_service.ko key_path=validation2
+```                                                                              
+Ta có thể thấy được các lệnh đã thực hiện, vào file validate và chèn một kernel check_service.ko vào hệ thống kèm theo tham số sau đó loại bỏ module đó ra rồi lại chèn vào một module khác với tham số là validation2 
+Ta sẽ tiến hành đọc validation2 này bằng 
+```
+strings /mnt/hgfs/share/CTF/Tamu/colonel/memory.dump | grep -iE -A 5 -B 5 "validation2" 
+```
+Lệnh này sẽ đọc 5 dòng phía trước và sau của dòng chữ này 
+```
+2026-02-14T21:49:05.592890+00:00 ubuntuvm kernel: check_service: module verification failed: signature and/or required key missing - tainting kernel
+2026-02-14T21:49:05.594253+00:00 ubuntuvm kernel: Reading from validation
+2026-02-14T21:49:05.594264+00:00 ubuntuvm kernel: Error: Invalid key 51782b4b765251314e32525236364978534d35566a6b72474b67303946483266, indices 9 21 31 incorrect
+2026-02-14T21:49:05.594265+00:00 ubuntuvm kernel: Validation failed
+2026-02-14T21:49:09.229154+00:00 ubuntuvm kernel: Module unloaded
+2026-02-14T21:49:11.781287+00:00 ubuntuvm kernel: Reading from validation2
+2026-02-14T21:49:11.781303+00:00 ubuntuvm kernel: Error: Invalid key 58782b4b765251314e51525235364978534d35566a6a72524b673039466c3265, indices 0 12 23 29 incorrect
+```
+Ta có thể thấy được cảnh báo sai mật khẩu 2 lần tại vị trí 9 21 31 0 12 23 29 kết hợp 2 lần sau này lại là ta có được key 
+51782b4b765251314e51525236364978534d35566a6a72474b67303946483265
+Kết hợp với IV đã cho ta có được flag 
+gigem{bl3ss3d_4r3_th3_c010n31_m33k}
